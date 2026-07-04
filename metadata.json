@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Cloth Shop",
+  "description": "A premium Telegram Mini App clothing store with an Admin Panel for catalog management, automated order tracking, and real Telegram Bot integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
